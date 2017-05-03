@@ -1,1 +1,2 @@
 # BAI-TAP-LON
+Một hệ thống quản lý coffee shop có nhiệm vụ quản lý các sản phẩm, giá cả, hóa đơn giúp khách hàng dễ dàng trong việc thanh toán. Quản lý được kho hàng và các thống kê như thống kê bán hàng, nhập xuất kho, thu chi, doanh thu giúp chủ cửa hàng không gặp nhiều khó khăn trong việc quản lý cũng như kiểm tra sự phát triển của coffee shop. Hệ thống phải quản lý được việc bán hàng nhằm tiện lợi cho quản lý trong việc quản lý sản phẩm bán ra.
